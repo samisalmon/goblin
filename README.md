@@ -1,4 +1,4 @@
-# Goblin
+# [Goblin](https://samisalmon.github.io/goblin/)
 
 A modern, responsive landing page themed around goblins! This project demonstrates a clean, mobile-friendly layout with a toggleable navigation menu and fun branding.
 
